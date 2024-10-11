@@ -33,8 +33,10 @@ Integration: DocuSign, PowerBI, Jotform, Sterling
 Certifications: AWS Certified Developer, Salesforce Platform Developer 1, Salesforce Administrator
 
 🚀 Achievements: 
+
 Led key UI/UX development efforts for Rebecca Everlene Trust Company, focusing on seamless integration and data visualization.
-Successfully deployed multiple Salesforce solutions while ensuring clean, reusable code practices in collaboration with cross-functional teams.</p>
+
+Successfully deployed multiple Salesforce solutions while ensuring clean, reusable code practices in collaboration with cross-functional teams.
 
 
 <h3 align="left">Connect with me:</h3>
