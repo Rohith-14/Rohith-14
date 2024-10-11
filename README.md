@@ -26,6 +26,7 @@ Contributing to integration projects involving REST APIs and third-party platfor
 AWS Services to expand my cloud expertise and align with Amazon’s technical requirements.
 Asynchronous Apex and Batch Apex for complex background processes in Salesforce.
 Advanced Apex REST API callouts and integrations.
+
 🏆 Key Skills & Certifications:
 Front-End: React, Angular, HTML/CSS
 Back-End: Java, Python, Node.js, Spring Boot
@@ -33,14 +34,21 @@ CI/CD: Salesforce DX, CircleCI, GitHub Actions
 Salesforce Development: Apex, LWC, Triggers, REST APIs
 Integration: DocuSign, PowerBI, Jotform, Sterling
 Certifications: AWS Certified Developer, Salesforce Platform Developer 1, Salesforce Administrator
+
 👨‍💻 Past Experience:
 Developed the iCare app for Sanofi to improve patient interactions using Salesforce Health Cloud.
 Integrated external platforms (DocuSign, PowerBI) for smooth workflows and enhanced functionality.
 Worked on a web form integration for JR Capital, connecting Jotform to Salesforce through REST APIs.
+
 🚀 Achievements:
 Led key UI/UX development efforts for Rebecca Everlene Trust Company, focusing on seamless integration and data visualization.
 Successfully deployed multiple Salesforce solutions while ensuring clean, reusable code practices in collaboration with cross-functional teams.
+
 💡 Looking Forward:
 I am excited to bring my skills as a Software Engineer, where I can contribute to creating cutting-edge solutions. My strong foundation in cloud technologies, integration, and customer-focused development aligns perfectly with Amazon’s customer-centric mission.
+
+Let's connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/rohith-neralla/))
+
 
 
