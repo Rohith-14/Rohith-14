@@ -47,7 +47,6 @@ Successfully deployed multiple Salesforce solutions while ensuring clean, reusab
 I am excited to bring my skills as a Software Engineer, where I can contribute to creating cutting-edge solutions. My strong foundation in cloud technologies, integration, and customer-focused development aligns perfectly with Amazon’s customer-centric mission.
 
 Let's connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/rohith-neralla/))
-
+https://www.linkedin.com/in/rohith-neralla/
 
 
