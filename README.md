@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋, I'm Rohith Neralla
+Hi 👋, I'm Rohith Neralla!
 I recently graduated with a Master’s in Computer Science from the University of Central Florida. I am passionate about designing scalable, efficient solutions that drive innovation and improve user experiences. With 3 years of hands-on experience in Full-Stack Web Development, Salesforce Development, and Integrations, I am ready to take on new challenges in fast-paced environments.
 
 🔭 I’m currently:
 Enhancing my knowledge in Kafka, Redis, and real-time data processing.
 Working on building efficient Lightning Web Components (LWCs) and Salesforce automation to streamline business processes.
 Contributing to integration projects involving REST APIs and third-party platforms like Jotform and Sterling.
+
 🌱 I’m actively learning:
 AWS Services to expand my cloud expertise and align with Amazon’s technical requirements.
 Asynchronous Apex and Batch Apex for complex background processes in Salesforce.
