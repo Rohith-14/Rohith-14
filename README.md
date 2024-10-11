@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Rohith-14/Rohith-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋, I'm Rohith Neralla!
+## Hi 👋, I'm Rohith Neralla!
 I recently graduated with a Master’s in Computer Science from the University of Central Florida. I am passionate about designing scalable, efficient solutions that drive innovation and improve user experiences. With 3 years of hands-on experience in Full-Stack Web Development, Salesforce Development, and Integrations, I am ready to take on new challenges in fast-paced environments.
 
 🔭 I’m currently:
