@@ -34,7 +34,7 @@ Certifications: AWS Certified Developer, Salesforce Platform Developer 1, Salesf
 
 🚀 Achievements: 
 
-Led key UI/UX development efforts for Rebecca Everlene Trust Company, focusing on seamless integration and data visualization.
+Recently, I led key UI/UX development efforts for Rebecca Everlene Trust, focusing on seamless integration and data visualization.
 
 Successfully deployed multiple Salesforce solutions while ensuring clean, reusable code practices in collaboration with cross-functional teams.
 
