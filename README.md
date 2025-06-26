@@ -20,21 +20,25 @@ I am passionate about designing scalable, efficient solutions that drive innovat
 
 🏆 Key Skills & Certifications:
 
-Front-End: React, Angular, HTML/CSS
+Programming Languages: Python, Java, JavaScript, Typescript, Apex, HTML, CSS, C, C++, SQL.
 
-Back-End: Java, Python, Node.js, Spring Boot
+Frontend & UI Frameworks: React.js, React Native, Next.js, Ant Design, Lightning Web Components (LWC)
 
-CI/CD: Salesforce DX, CircleCI, GitHub Actions
+Backend & API: Flask, Django, Node.js, Spring Boot, REST APIs (JSON, XML), HTTP/SOAP callouts
 
-Salesforce Development: Apex, LWC, Triggers, REST APIs
+Testing Frameworks: Cypress (E2E, integration), Selenium, Postman, JUnit, Manual Testing, Test Planning
 
-Integration: DocuSign, PowerBI, Jotform, Sterling
+ML & AI: Scikit-learn, TensorFlow, Hugging Face Transformers, NLP (NLTK, BERT, CNN, LSTM), DistilBERT
 
-Certifications: AWS Certified Developer, Salesforce Platform Developer 1, Salesforce Administrator
+DevOps & CI/CD: GitLab, Jenkins, Docker, Kubernetes, AWS, AutoRabit, Bitbucket Pipelines, npm, yarn
+
+Data & Visualization: MongoDB, DynamoDB, NoSQL, PowerBI, Tableau 
+
+Workflow & Tools: Jira, Agile/Scrum, Figma, Git, VSCode
 
 🚀 Achievements: 
 
-Recently, I led key UI/UX development efforts for Rebecca Everlene Trust, focusing on seamless integration and data visualization.
+Recently, I led key UI/UX development efforts for Velmeni, focusing on building a stable, responsive application for dental Claims.
 
 Successfully deployed multiple Salesforce solutions while ensuring clean, reusable code practices in collaboration with cross-functional teams.
 
