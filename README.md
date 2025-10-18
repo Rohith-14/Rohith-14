@@ -32,7 +32,7 @@ ML & AI: Scikit-learn, TensorFlow, Hugging Face Transformers, NLP (NLTK, BERT, C
 
 DevOps & CI/CD: GitLab, Jenkins, Docker, Kubernetes, AWS, AutoRabit, Bitbucket Pipelines, npm, yarn
 
-Data & Visualization: MongoDB, DynamoDB, NoSQL, PowerBI, Tableau 
+Data & Visualization: PostgreSQL, MongoDB, NoSQL, PowerBI, Tableau 
 
 Workflow & Tools: Jira, Agile/Scrum, Figma, Git, VSCode
 
