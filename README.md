@@ -20,11 +20,11 @@ I am passionate about designing scalable, efficient solutions that drive innovat
 
 🏆 Key Skills & Certifications:
 
-Programming Languages: Python, Java, JavaScript, Typescript, Apex, HTML, CSS, C, C++, SQL.
+Programming Languages: C#, Python, Java, JavaScript, Typescript, Apex, HTML, CSS, C, C++, SQL.
 
-Frontend & UI Frameworks: React.js, React Native, Next.js, Ant Design, Lightning Web Components (LWC)
+Frontend & UI Frameworks: Angular, React.js, React Native, Next.js, Ant Design, Lightning Web Components (LWC)
 
-Backend & API: Flask, Django, Node.js, Spring Boot, REST APIs (JSON, XML), HTTP/SOAP callouts
+Backend & API: ASP.NET, Django, Node.js, Spring Boot, REST APIs (JSON, XML), HTTP/SOAP callouts
 
 Testing Frameworks: Cypress (E2E, integration), Selenium, Postman, JUnit, Manual Testing, Test Planning
 
