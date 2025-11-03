@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <!--## Hi 👋, I'm Rohith Neralla!-->
 
-Hi 👋, I'm Rohith Neralla!
+Hi 👋, I'm Venkata Rohith Neralla!
 
 I am passionate about designing scalable, efficient solutions that drive innovation and improve user experiences. I recently graduated with a Master’s in Computer Science from the University of Central Florida. With over 3 years of hands-on experience in Full-Stack Web Development, Salesforce Development, and Integrations, I am ready to take on new challenges in fast-paced environments.</p>
 
